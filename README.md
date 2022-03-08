@@ -1,2 +1,2 @@
 # Keeper-Notes-App
-Created with CodeSandbox
+Keeper React App, as seen in Dr. Angela Yu's Web Development Bootcamp, createrd with CodeSandbox.
